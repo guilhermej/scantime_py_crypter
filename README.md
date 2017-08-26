@@ -8,3 +8,6 @@ pip install pyaes
 
 # Usage
 python scantime_py_crypter.py </path/to/malware.exe>
+
+# Pentest Profissional Solyd
+https://solyd.com.br/treinamentos
