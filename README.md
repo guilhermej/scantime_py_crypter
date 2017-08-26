@@ -4,6 +4,7 @@ Creates a EXE Payload (stub) with encrypted PE.
 
 # Requeriments
 pip install pyinstaller
+
 pip install pyaes
 
 # Usage
